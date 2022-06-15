@@ -1,5 +1,4 @@
 from json import load
-import pickle
 import pandas as pd
 from keras.callbacks import EarlyStopping
 from keras.models import Sequential

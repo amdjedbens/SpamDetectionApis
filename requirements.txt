@@ -1,0 +1,10 @@
+gunicorn
+flask
+flask_restful
+tensorflow
+sympy
+numpy
+keras
+sklearn
+pandas
+nltk
